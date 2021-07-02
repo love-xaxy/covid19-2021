@@ -23,5 +23,3 @@ jobs:
           SCKEY: ${{ secrets.SCKEY }}
         run:
           node HealthyPunch.js
-
-
